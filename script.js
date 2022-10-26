@@ -1,7 +1,7 @@
 
-function startCounter(){
 
-    let time=1000;
+
+   let time=1000;
  let displayCount = document.getElementById("countdown");
 
 
@@ -109,4 +109,3 @@ ten(() => {
 
 
 
-}
